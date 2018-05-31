@@ -1,0 +1,134 @@
+2018-05-31T15:23:28.104Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-31T15:23:28.109Z - normal: checking language setting...
+2018-05-31T15:23:28.110Z - normal: Language: zh
+2018-05-31T15:23:32.433Z - success: protocol editor-framework registered
+2018-05-31T15:23:32.434Z - success: protocol app registered
+2018-05-31T15:23:32.434Z - success: protocol theme registered
+2018-05-31T15:23:32.434Z - success: protocol packages registered
+2018-05-31T15:23:32.434Z - success: protocol unpack registerred
+2018-05-31T15:23:32.434Z - success: protocol disable-commonjs registerred
+2018-05-31T15:23:32.692Z - normal: connected!
+2018-05-31T15:23:32.700Z - normal: Check project D:\COCOS\polished_project\polished_project
+2018-05-31T15:23:32.706Z - normal: Initializing Cocos2d
+2018-05-31T15:23:34.417Z - normal: Initializing Asset Database
+2018-05-31T15:23:34.591Z - success: protocol uuid registerred
+2018-05-31T15:23:34.591Z - success: protocol db registerred
+2018-05-31T15:23:34.592Z - success: protocol thumbnail registerred
+2018-05-31T15:23:34.592Z - normal: Loading editor/builtin packages
+2018-05-31T15:23:34.619Z - success: anysdk loaded
+2018-05-31T15:23:34.783Z - success: assets loaded
+2018-05-31T15:23:34.785Z - success: builder loaded
+2018-05-31T15:23:34.788Z - success: cocos-analytics loaded
+2018-05-31T15:23:34.792Z - success: console loaded
+2018-05-31T15:23:34.830Z - success: fb-instant-games loaded
+2018-05-31T15:23:34.834Z - success: hierarchy loaded
+2018-05-31T15:23:34.839Z - success: inspector loaded
+2018-05-31T15:23:34.841Z - success: keystore loaded
+2018-05-31T15:23:34.845Z - success: node-library loaded
+2018-05-31T15:23:34.848Z - success: package-asset loaded
+2018-05-31T15:23:34.851Z - success: preferences loaded
+2018-05-31T15:23:34.853Z - success: project-exporter loaded
+2018-05-31T15:23:34.873Z - success: project-importer loaded
+2018-05-31T15:23:34.877Z - success: project-settings loaded
+2018-05-31T15:23:34.880Z - success: ui-kit loaded
+2018-05-31T15:23:34.882Z - success: ui-grid loaded
+2018-05-31T15:23:34.886Z - success: scene loaded
+2018-05-31T15:23:34.887Z - success: sprite-editor loaded
+2018-05-31T15:23:34.892Z - success: store loaded
+2018-05-31T15:23:34.899Z - success: timeline loaded
+2018-05-31T15:23:34.899Z - normal: Loading builtin packages
+2018-05-31T15:23:34.903Z - success: asset-db-debugger loaded
+2018-05-31T15:23:34.904Z - success: code-editor loaded
+2018-05-31T15:23:34.905Z - success: color-picker loaded
+2018-05-31T15:23:34.907Z - success: package-manager loaded
+2018-05-31T15:23:34.914Z - success: sdkbox loaded
+2018-05-31T15:23:34.918Z - success: tester loaded
+2018-05-31T15:23:34.920Z - success: ui-kit-preview-extra loaded
+2018-05-31T15:23:34.921Z - success: ui-kit-preview loaded
+2018-05-31T15:23:34.922Z - success: ui-tree loaded
+2018-05-31T15:23:36.712Z - normal: Initializing project D:\COCOS\polished_project\polished_project
+2018-05-31T15:23:36.722Z - normal: Loading packages
+2018-05-31T15:23:36.727Z - normal: Watching packages
+2018-05-31T15:23:36.741Z - normal: Run Application
+2018-05-31T15:23:39.295Z - success: preview server running at http://localhost:7456
+2018-05-31T15:23:52.772Z - normal: 1.9.1
+2018-05-31T15:34:36.080Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "D:\\COCOS\\polished_project\\polished_project\\build",
+  "debug": false,
+  "dest": "D:\\COCOS\\polished_project\\polished_project\\build\\wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.polished_project",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "0b9c76e0-2054-4eea-a6d9-040d0aa037f0"
+  ],
+  "sourceMaps": false,
+  "startScene": "0b9c76e0-2054-4eea-a6d9-040d0aa037f0",
+  "template": "link",
+  "title": "Bunny",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wxb174396057991af5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "c03b23cc-7932-47",
+  "zipCompressJs": true,
+  "project": "D:\\COCOS\\polished_project\\polished_project",
+  "projectName": "Bunny",
+  "debugBuildWorker": false
+}
+2018-05-31T15:34:36.083Z - normal: Building D:\COCOS\polished_project\polished_project
+2018-05-31T15:34:36.083Z - normal: Destination D:\COCOS\polished_project\polished_project\build\wechatgame
+2018-05-31T15:34:37.041Z - normal: Delete D:\COCOS\polished_project\polished_project\build\wechatgame\**\*
+2018-05-31T15:34:40.544Z - normal: Compiled project javascript file successfully
+2018-05-31T15:34:40.545Z - normal: Start building assets
+2018-05-31T15:34:40.545Z - normal: Start spawn build-worker
+2018-05-31T15:34:41.415Z - normal: Finish spawn build-worker
+2018-05-31T15:34:41.415Z - normal: Start init build-worker
+2018-05-31T15:34:44.233Z - normal: 1.9.1
+2018-05-31T15:34:44.310Z - normal: Finish init build-worker
+2018-05-31T15:34:44.310Z - normal: Start build-assets in worker
+2018-05-31T15:34:44.798Z - normal: Finish build-assets in worker
+2018-05-31T15:34:44.812Z - normal: Finish building assets
+2018-05-31T15:34:44.828Z - normal: Start building raw assets
+2018-05-31T15:34:44.828Z - normal: Start building plugin scripts
+2018-05-31T15:34:44.893Z - normal: Finish building raw assets
+2018-05-31T15:34:44.961Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-05-31T15:34:46.097Z - normal: Built to "D:\COCOS\polished_project\polished_project\build\wechatgame" successfully
